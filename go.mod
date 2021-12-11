@@ -1,4 +1,4 @@
-module goPriceSubmitterBinding
+module github.com/xrpdevs/goPriceSubmitterBinding
 
 go 1.17
 
